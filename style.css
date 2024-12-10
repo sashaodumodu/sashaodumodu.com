@@ -76,10 +76,11 @@ form button:hover {
   color: white;
 }
 
-form button:click {
+form button:active {
   background-color: #b3697e;
   color: white;
 }
+
 
 /* Project Images */
 .project {
