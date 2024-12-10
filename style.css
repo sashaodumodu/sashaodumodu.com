@@ -43,6 +43,21 @@ h2 {
   color: #d88aa0;
 }
 
+/* Links */
+a {
+  color: #b3697e;           /* Set the text color */
+  text-decoration: ;    /* Remove underline */
+  font-weight: bold;        /* Make text bold */
+}
+
+a:hover {
+  color: #f0a0a0;           /* Change color on hover */
+}
+
+a:visited {
+  color: #8b3d3d;           /* Set color for visited links */
+}
+
 /* Table */
 table {
   width: 100%;
