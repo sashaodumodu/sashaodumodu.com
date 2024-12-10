@@ -56,7 +56,7 @@ th, td {
 }
 
 /* Form */
-form input, form textarea, form button {
+form input, form text area, form button {
   width: 100%;
   padding: 0.7rem;
   margin: 0.5rem 0;
