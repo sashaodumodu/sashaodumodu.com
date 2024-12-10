@@ -45,17 +45,17 @@ h2 {
 
 /* Links */
 a {
-  color: #b3697e;           /* Set the text color */
-  text-decoration: ;    /* Remove underline */
-  font-weight: bold;        /* Make text bold */
+  color: #d88aa0;           
+  text-decoration: none;    
+  font-weight: bold;        
 }
 
 a:hover {
-  color: #f0a0a0;           /* Change color on hover */
+  color: #f0a0a0;          
 }
 
 a:visited {
-  color: #8b3d3d;           /* Set color for visited links */
+  color: #d88aa0;   
 }
 
 /* Table */
