@@ -76,6 +76,11 @@ form button:hover {
   color: white;
 }
 
+form button:click {
+  background-color: #b3697e;
+  color: white;
+}
+
 /* Project Images */
 .project {
   margin: 1rem 0;
